@@ -12,13 +12,12 @@ During their course of treatment, each patient responded to one of five medicati
 
 Data Description:
 
+Column name	| Description
 
-Column name	Description
-
-Age	  Age of a patient (Number)
-Sex	  M or F
-BP Blood Pressure:  HIGH, NORMAL, or LOW
-Cholestrol	Blood Cholestrol:  NORMAL or HIGH
-Na	Blood Sodium concentration
-K	Blood Potassium Concentration
-Drug	Prescription drug to which a patient responded
+Age	        |  Age of a patient (Number)
+Sex	        |  M or F
+BP          |  Blood Pressure:HIGH, NORMAL, or LOW
+Cholestrol  |	 Blood Cholestrol:NORMAL or HIGH
+Na	         |  Blood Sodium concentration
+K	          |  Blood Potassium Concentration
+Drug	       |Prescription drug to which a patient responded
