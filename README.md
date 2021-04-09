@@ -14,10 +14,7 @@ Data Description:
 
 Column name	| Description
 
-Age	        |  Age of a patient (Number)
-Sex	        |  M or F
-BP          |  Blood Pressure:HIGH, NORMAL, or LOW
-Cholestrol  |	 Blood Cholestrol:NORMAL or HIGH
-Na	         |  Blood Sodium concentration
-K	          |  Blood Potassium Concentration
-Drug	       |Prescription drug to which a patient responded
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
